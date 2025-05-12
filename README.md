@@ -156,12 +156,12 @@ o	scipy
 o	scikit-learn
 
 # Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+- Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 # Future Enhancements
-- Experiment with advanced architectures like ResNet, VGG, or EfficientNet.
+- Transform platform into a user Friendly GUI App (..underway)
 
 # License
-This project is licensed under the [MIT License](LICENSE).
+- This project is licensed under the [MIT License](LICENSE).
 
 
