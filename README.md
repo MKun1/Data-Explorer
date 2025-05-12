@@ -158,6 +158,9 @@ o	scikit-learn
 # Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
+# Future Enhancements
+- Experiment with advanced architectures like ResNet, VGG, or EfficientNet.
+
 # License
 This project is licensed under the [MIT License](LICENSE).
 
