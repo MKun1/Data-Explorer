@@ -76,7 +76,7 @@ Descriptive Statistics:**
 
 
 
-**Installation**
+# Installation
 Clone the repository:
 
 bash
@@ -88,7 +88,7 @@ bash
 pip install -r requirements.txt
 (Create a requirements.txt file with these packages: pandas, numpy, matplotlib, seaborn, scipy, scikit-learn)
 
-**Usage**
+# Usage
 Data Cleaning Module
 python
 from dynamic_dataset_loading_and_cleaning import AutomatedPDFReport, upload_dataset, detect_issues, clean_data
@@ -140,7 +140,7 @@ o	Cleaning operation logs
 
 o	Final dataset previews
 
-Dependencies
+# Dependencies
 o	Python 3.7+
 
 o	pandas
@@ -155,7 +155,7 @@ o	scipy
 
 o	scikit-learn
 
-Contributing
+# Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 License
