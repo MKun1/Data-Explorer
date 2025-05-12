@@ -79,15 +79,15 @@ Descriptive Statistics:**
 # Installation
 Clone the repository:
 
-bash
-git clone https://github.com/yourusername/data-explorer.git
+bash 
+```git clone https://github.com/yourusername/data-explorer.git
 cd data-explorer
 Install required dependencies:
-
+```
 bash
-pip install -r requirements.txt
+```pip install -r requirements.txt
 (Create a requirements.txt file with these packages: pandas, numpy, matplotlib, seaborn, scipy, scikit-learn)
-
+```
 # Usage
 Data Cleaning Module
 python
@@ -158,6 +158,7 @@ o	scikit-learn
 # Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-License
-MIT License
+## License
+This project is licensed under the [MIT License](LICENSE).
+
 
